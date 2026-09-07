@@ -1,0 +1,12 @@
+#BlueJ class context
+#Wed Sep 02 10:40:28 EDT 2026
+comment0.target=RPGGame
+comment1.params=low high
+comment1.target=double randBetween(int, int)
+comment1.text=\r\n Generate a random number between low and high\r\n
+comment2.params=playerName characterClass weapon hitPoints gold silver copper
+comment2.target=void printProfile(java.lang.String, java.lang.String, java.lang.String, double, int, int, int)
+comment2.text=\r\n Print out character profile info\r\n
+comment3.params=args
+comment3.target=void main(java.lang.String[])
+numComments=4
